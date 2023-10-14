@@ -1,7 +1,7 @@
 # Proyecto Portafolio
 Este proyecto refleja un hito importante en mi trayectoria profesional. No es sólo una muestra de mis habilidades, sino también un testimonio de mi enfoque, dedicación y pasión por el desarrollo web.
 
-##Descripción
+## Descripción
 > Durante un periodo de dos semanas, dediqué incontables horas al meticuloso diseño y desarrollo de este sitio. La elección de JavaScript Vanilla no fue accidental. Decidí desafiarme a mí mismo, evitando el uso de bibliotecas o frameworks externos, para crear una experiencia web fluida y eficiente, centrada completamente en el frontend. A través de este proyecto, busco demostrar no sólo mi destreza técnica sino también mi enfoque en ofrecer soluciones optimizadas y eficientes.
 
 ## Tecnologías y Herramientas Utilizadas
@@ -19,5 +19,5 @@ Este proyecto refleja un hito importante en mi trayectoria profesional. No es s�
 
 - Mi tiempo y pensamiento: Cada proyecto es único, y este en particular es el resultado de muchas horas de reflexión, planificación y ejecución.
 
-##Agradecimientos
+## Agradecimientos
 >Quisiera agradecer a todos los que directa o indirectamente apoyaron en este proyecto, desde quienes ofrecieron su feedback hasta aquellos que simplemente me dieron palabras de aliento. Todo contribuye al resultado final.
