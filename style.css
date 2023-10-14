@@ -33,6 +33,7 @@ nav {
 }
 .logo {
     width: 100px;
+    cursor: pointer;
 }
 .navbar-left ul,
 .navbar-right ul {
@@ -92,6 +93,7 @@ nav {
 
 .navbar-shopping-cart-desktop {
     position: relative;
+    cursor: pointer;
 }
 .navbar-shopping-cart-desktop div {
     width: 16px;
